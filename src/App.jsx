@@ -1,11 +1,11 @@
 import React from "react";
 import { Box } from "@chakra-ui/react";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Home from "./Home"; // Ensure correct imports for your components
-import Portfolio from "./Portfolio";
-import NotFound from "./NotFound";
-import Header from "./Header";
-import Footer from "./Footer";
+import { createBrowserRouter, RouterProvider } from "react-router";
+import {Home}from "./Home"; // Ensure correct imports for your components
+import {Portfolio} from "./Portfolio";
+import {NotFound} from "./NotFound";
+import {Header} from "./Header";
+import {Footer} from "./Footer";
 
 const router = createBrowserRouter([
   { path: "/praveenwebsite/", element: <Home /> },
