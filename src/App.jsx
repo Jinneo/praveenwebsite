@@ -8,8 +8,8 @@ import { Box } from "@chakra-ui/react";
 import { NotFound } from "./NotFound";
 
 const router = createBrowserRouter([
-  { path: "/", element: <Home /> },
-  { path: "/portfolio", element: <Portfolio /> },
+  { path: "/praveenwebsite/", element: <Home /> },
+  { path: "/praveenwebsite/portfolio", element: <Portfolio /> },
   {path: "*", element: <NotFound />}
 ]);
 

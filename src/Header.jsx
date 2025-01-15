@@ -43,7 +43,7 @@ export function Header() {
           </Button>
           <Button
             as="a"
-            href="/portfolio"
+            href="/praveenwebsite/portfolio"
             color="#F5EFE7"
             variant="link"
             fontSize="lg"
