@@ -4,13 +4,13 @@ import { FaGithub } from "react-icons/fa";
 
 export function Portfolio() {
   const projects = [
-    {
-        title: "OpenTrellis Internship",
-        description:
-          "Worked on implementing various wireframes hand-designed, one of which is below.",
-        github: "http://opentrellis.ai/",
-        imageUrl: "src/Screenshot 2025-01-15 at 1.01.42 AM.png", 
-      },
+    // {
+    //     title: "OpenTrellis Internship",
+    //     description:
+    //       "Worked on implementing various wireframes hand-designed, one of which is below.",
+    //     github: "http://opentrellis.ai/",
+    //     imageUrl: "./opentrellis.png", 
+    //   },
     {
       title: "Space Travel",
       description: "Developed and designed website for a website competition. The goal was a space website for a theoretical space company.",

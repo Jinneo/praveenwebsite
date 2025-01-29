@@ -18,7 +18,7 @@ export function Home() {
           Full-Stack Developer | UC Berkeley | Data Science
         </Text>
         <HStack spacing={4} mt={4}>
-          <Button as="a" href="/praveenwebsite/portfolio" bg="#D8C4B6" color="#213555" variant="solid" _hover={{ bg: "#F5EFE7" }}>Portfolio</Button>
+          <Button as="a" href="/praveenwebsite/#/portfolio" bg="#D8C4B6" color="#213555" variant="solid" _hover={{ bg: "#F5EFE7" }}>Portfolio</Button>
           <Button
   as="a"
   href="https://drive.google.com/file/d/1oy_Ou4ir4d4zmcgTbd2V5ZQO1JDqFzPt/view?usp=sharing"

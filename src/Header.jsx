@@ -13,7 +13,7 @@ export function Header() {
         {/* Logo / Brand */}
         <Button
           as="a"
-          href="/"
+          href="/praveenwebsite/"
           variant="ghost"
           _hover={{ bg: "#2a446d" }}
           fontSize={{ base: "lg", md: "2xl" }}
@@ -34,7 +34,7 @@ export function Header() {
         >
           <Button
             as="a"
-            href="/"
+            href="/praveenwebsite/"
             color="#F5EFE7"
             variant="link"
             fontSize="lg"
@@ -43,7 +43,7 @@ export function Header() {
           </Button>
           <Button
             as="a"
-            href="/praveenwebsite/portfolio"
+            href="/praveenwebsite/#/portfolio"
             color="#F5EFE7"
             variant="link"
             fontSize="lg"
